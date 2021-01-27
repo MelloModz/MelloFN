@@ -1,1 +1,5 @@
-# MelloFN
+# Welcome 🥳  
+GummyFN is a free Fortnite Lobbybot which allows you to see all Fortnite cosmetics.  
+
+# Get Help  
+[Join my Discord](https://discord.gg/ugUTsaz)
