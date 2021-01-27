@@ -1,9 +1,8 @@
 {
     "Bot Version": "0.0.1",
-    "Troll Mode": "false",
     "Secret Password": "don't neeeded right now",
     "Account": {
-      "Email": "bot gmail here",
+      "Email": "@gmail.com",
       "Password": "no password needed",
       "Prefix": "!"
     },
@@ -16,7 +15,8 @@
         "Banner": {
           "Banner Color": "defaultcolor15",
           "Banner Name": "Winter2018CrownFlame",
-          "Season Level": 100
+          "Season Level": 100,
+          "battle pass tier": 9999
         },
         "Skin": "CID_028_Athena_Commando_F",
         "Backpack": "BID_023_Pinkbear",
