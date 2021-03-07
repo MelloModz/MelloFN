@@ -7,7 +7,7 @@
       "Prefix": "!"
     },
     "Control": {
-      "Give full access to": ["your account id"], //this is like kick command etc.
+      "Give full access to": "your account id", //this is like kick command etc.
       "Public Bot": "false"
     },
     "Party": {
