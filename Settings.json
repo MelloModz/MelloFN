@@ -30,4 +30,9 @@
     "Friends": {
       "Accept all friend requests": "false"
     }
+    
+    "Discord": {
+        "Token": "your toke error"
+    },
+
   }
