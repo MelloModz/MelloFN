@@ -1,13 +1,13 @@
 {
-    "Bot Version": "0.0.1",
-    "Secret Password": "don't neeeded right now",
+    "Bot Version": "1.0.0",
+    "Secret Password": "not needed right now.",
     "Account": {
       "Email": "@gmail.com",
       "Password": "no password needed",
       "Prefix": "!"
     },
     "Control": {
-      "Give full access to": ["your account id"],
+      "Give full access to": ["your account id"], //this is like kick command etc.
       "Public Bot": "false"
     },
     "Party": {
@@ -29,10 +29,10 @@
     },
     "Friends": {
       "Accept all friend requests": "false"
-    }
+    },
     
     "Discord": {
-        "Token": "your toke error"
-    },
+        "Token": "Your bot token"
+    }
 
   }
