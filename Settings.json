@@ -1,17 +1,15 @@
-{
+    {
     "Bot Version": "1.0.0",
-    "Secret Password": "not needed right now.",
+    "Secret Password": "not needed",
     "Account": {
-      "Email": "your@gmail.com",
-      "Password": "no password needed",
-      "Prefix": "!"
-      },
-    
+    "Email": "your@gmail.com",
+    "Password": "not needed",
+     "Prefix": "!"
+     },   
     "Control": {
       "Give full access to": "your account id",
       "Public Bot": "false"
-      },
-    
+     },
      "Party": {
      "Cosmetics": {
      "Banner": {
@@ -19,24 +17,21 @@
      "Banner Name": "Winter2018CrownFlame",
      "Season Level": 100,
      "battle pass tier": 9999
-      },
-         
+     },     
      "Skin": "CID_028_Athena_Commando_F",
      "Backpack": "BID_023_Pinkbear",
      "Pickaxe": "HalloweenScythe",
      "Emote": "EID_Kilo_VD0PK"   
-      },
-         
+     },      
      "Platform": "PS5",
      "Join party on invitation": "false"
      },
     
-    "Friends": {
-    "Accept all friend requests": "false"
-    },
-    
-    "Discord": {
-    "Token": "Your bot token"
-    }
+     "Friends": {
+     "Accept all friend requests": "false"
+     }
+     "Discord": {
+     "Token": "Your bot token"
+     }
 
-  }
+     }
